@@ -1,0 +1,19 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+
+# Terraform plan files
+tfplan
+*.tfplan
+
+# CLI config files
+.terraformrc
+terraform.rc
+
+# OS
+.DS_Store
