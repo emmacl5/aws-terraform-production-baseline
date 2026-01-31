@@ -17,3 +17,6 @@ terraform.rc
 
 # OS
 .DS_Store
+
+# Terraform artifacts (ensure)
+**/.terraform/*
